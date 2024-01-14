@@ -1,0 +1,2 @@
+# thứ dữ
+print ("hahahaha")
